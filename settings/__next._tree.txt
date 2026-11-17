@@ -1,0 +1,7 @@
+:HL["/birthdaybook/_next/static/chunks/2g1z-b9xubfk_.css","style"]
+:HL["/birthdaybook/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/birthdaybook/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/birthdaybook/_next/static/media/f462257512209772-s.p.39pl-v7c3qrze.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"settings","h":96,"c":"$Q2"}]]
+0:{"b":"27cK0nkCov9DRGA6rnow4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
