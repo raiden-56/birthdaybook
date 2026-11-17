@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BirthdayBook</string>
+    <string name="title_activity_main">BirthdayBook</string>
+    <string name="package_name">com.birthdaybook.app</string>
+    <string name="custom_url_scheme">com.birthdaybook.app</string>
+</resources>

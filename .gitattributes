@@ -1,0 +1,8 @@
+# Keep LF in the repo so scripts like android/gradlew run on Linux/macOS CI.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.wav binary
+*.jar binary

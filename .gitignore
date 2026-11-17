@@ -1,0 +1,24 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+coverage/
+
+# Capacitor native build outputs (the native projects themselves are committed)
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/release/
+android/keystore.properties
+*.jks
+*.keystore
+ios/App/Pods/
+ios/App/build/
+ios/DerivedData/
+
+# Local Claude Code tooling (skills are restorable from skills-lock.json)
+.claude/skills/
+.claude/settings.local.json
